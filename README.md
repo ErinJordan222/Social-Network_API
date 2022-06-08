@@ -36,3 +36,13 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Installation
 1. ```npm i```
 2. ```npm start```
+
+## Usage
+#### usage here
+
+## Contribution
+#### University of Denver Coding Bootcamp.
+
+## Questions?
+#### Any questions or concerns, please reach out to:
+<a href="https://erinjordan2790@gmail.com">Email</a> or <a href="https://github.com/ErinJordan222">Github</a>
