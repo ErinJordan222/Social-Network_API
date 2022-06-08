@@ -4,6 +4,7 @@
 
 ## Description
 ### Description here
+### Clone: https://github.com/ErinJordan222/Social-Network_API.git
 
 ## Table of Contents
 * [Installation](#installation)
@@ -34,7 +35,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Installation
-1. clone ```md https://github.com/ErinJordan222/Social-Network_API.git```
 1. ```npm i```
 2. ```npm start```
 
