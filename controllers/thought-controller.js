@@ -2,7 +2,7 @@ const { Thought, User } = require('../models');
 
 const thoughtController = {
     // Get all thoughts
-    getAllThoughts(req,res) {
+    getAllThoughts(req, res) {
         Thought.find({})
             // sorting by id
             .sort({ _id: -1 })
