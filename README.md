@@ -3,7 +3,10 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-### Description here
+### Erin Jordan's Social Network API week 18 project for University of Denver Coding Bootcamp.
+
+The purpose of this project is to create a username, create and post a thought and add a reaction to the thought.
+
 ### Clone: https://github.com/ErinJordan222/Social-Network_API.git
 
 ## Table of Contents
@@ -39,7 +42,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 2. ```npm start```
 
 ## Usage
-#### usage here
+#### The usage of this repo is to connect to a front end to add a user to a database created in Mongo DB Compass. You can also update/ delete user. Also find user by id or all users. Under your user you can create/ update and delete a thought. As well as find all thoughts or an individual thought. As well as having reaction/ comments towards thoughts. And lastly, you can add and remove friends! Enjoy!
 
 ## Contribution
 #### University of Denver Coding Bootcamp.
