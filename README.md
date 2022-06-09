@@ -47,3 +47,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Questions?
 #### Any questions or concerns, please reach out to:
 <a href="https://erinjordan2790@gmail.com">Email</a> or <a href="https://github.com/ErinJordan222">Github</a>
+
+## Screenshots
+https://www.youtube.com/watch?v=vjDuQbMkzTY
+
+https://www.youtube.com/watch?v=JB_buimTPIE
