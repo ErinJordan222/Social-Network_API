@@ -52,9 +52,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 <a href="https://youtu.be/25TZ2uDNcTw">Coding/ Installation</a>
 
-<a href="https://www.youtube.com/watch?v=vjDuQbMkzTY">Create/ Update/ Delete USER</a>
+<a href="https://www.youtube.com/watch?v=JB_buimTPIE">Create/ Update/ Delete USER</a>
 
-<a href="https://www.youtube.com/watch?v=JB_buimTPIE">Create/ Update/ Delete THOUGHT</a>
+<a href="https://www.youtube.com/watch?v=vjDuQbMkzTY">Create/ Update/ Delete THOUGHT</a>
 
 <a href="https://youtu.be/kLhI1Mvm0Dw">Create/ Delete REACTION</a>
 
