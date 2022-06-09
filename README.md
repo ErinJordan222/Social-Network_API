@@ -49,6 +49,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <a href="https://erinjordan2790@gmail.com">Email</a> or <a href="https://github.com/ErinJordan222">Github</a>
 
 ## Screenshots
-<a href="https://www.youtube.com/watch?v=vjDuQbMkzTY">Controllers + Models + Routes walkthrough/ Installation</a>
+<a href="https://www.youtube.com/watch?v=vjDuQbMkzTY">Create/ Update/ Delete USER</a>
 
-https://www.youtube.com/watch?v=JB_buimTPIE
+<a href="https://www.youtube.com/watch?v=JB_buimTPIE">Create/ Update/ Delete THOUGHT</a>
+
+<a href="https://youtu.be/kLhI1Mvm0Dw">Create/ Delete REACTION</a>
+
+<a href="https://youtu.be/ANmMB-S39R8">Add/ Remove FRIEND</a>
