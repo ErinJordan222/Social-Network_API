@@ -14,7 +14,7 @@ The purpose of this project is to create a username, create and post a thought a
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Questions](#questions)
-* [Screenshots](#screenshots)
+* [Walk-through](#walkthrough)
 
 ## User Story
 ```md
@@ -51,7 +51,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 #### Any questions or concerns, please reach out to:
 <a href="https://erinjordan2790@gmail.com">Email</a> or <a href="https://github.com/ErinJordan222">Github</a>
 
-## Screenshots
+## Walk-through
 
 <a href="https://youtu.be/25TZ2uDNcTw">Coding/ Installation</a>
 
