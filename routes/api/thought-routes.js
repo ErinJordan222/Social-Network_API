@@ -21,7 +21,7 @@ router.route('/:id')
 router.route('/:userId')
     .post(createThought);
 
-router.route('.:thoughtId/reaction')
+router.route('/:thoughtId/reaction')
     .post(addReaction);
 
 router.route('/:thoughtId/reactions/:reactionId')
